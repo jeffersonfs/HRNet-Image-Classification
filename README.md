@@ -3,7 +3,7 @@
 ## News
 - Per request, we provide two small HRNet models. #parameters and GFLOPs are similar to ResNet18. The segmentation resutls using the two small models are also available at https://github.com/HRNet/HRNet-Semantic-Segmentation.
 
-- TensoFlow implemenation available at https://github.com/yuanyuanli85/tf-hrnet. Thanks [VictorLi](https://github.com/yuanyuanli85)!
+- TensorFlow implemenation available at https://github.com/yuanyuanli85/tf-hrnet. Thanks [VictorLi](https://github.com/yuanyuanli85)!
 
 - ONNX export enabled after fixing issues. Thanks [Baowen Bao](https://github.com/BowenBao)!
 
